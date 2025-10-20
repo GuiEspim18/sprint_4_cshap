@@ -122,7 +122,7 @@
 }</code></pre>
 
 <h2>7. Diagrama de Classes</h2>
-![Diagrama de Classes](./sprint_3_cs.drawio.png)
+<img src="./sprint_3_cs.drawio.png" />
 
 
 <h2>8. Observações</h2>
